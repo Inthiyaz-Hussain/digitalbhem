@@ -1,1 +1,2 @@
-# digitalbhem
+# Digitalbhem
+This is basic calculator.
